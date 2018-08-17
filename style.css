@@ -28,15 +28,15 @@ footer {
 }
 
 .topnav{
-	position:fixed;
+	position:relative;
 	top:0;
 	background-color: #DDDDDD;
 }
 
 .topnav a {
-	float:left;
+	float:center;
 	display:block;
-	color:#001f3f;
+	color:#000000;
 	text-align: center;
 	padding:14px 16px;
 	text-decoration: none;
@@ -44,6 +44,6 @@ footer {
 }
 
 .topnav a:hover {
-	background-color: #001f3f;
+	background-color: #000000;
 	color: #DDDDDD;
 }
